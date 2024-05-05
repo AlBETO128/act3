@@ -20,7 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Imagenes
 ![image](https://github.com/AlBETO128/act3/assets/143547229/23d95f11-b2e9-40db-92de-9f67f5c42ce6)
-
 ![image](https://github.com/AlBETO128/act3/assets/143547229/51b42e2f-e6f9-4983-9dfc-2bede6d21aa8)
 ![image](https://github.com/AlBETO128/act3/assets/143547229/f7ed79b9-8c17-43cc-9d00-c2a365e9c619)
 ![image](https://github.com/AlBETO128/act3/assets/143547229/1fd0668f-0591-4aa5-a89e-bf6f5fc695bc)
